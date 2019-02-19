@@ -149,9 +149,9 @@ remove_const<const int>::type value = 3; // int
 ```sh
 mkdir fairing && cd fairing
 svn export \
-  https://github.com/dgpdec/course/tree/master/Fairing original
+  https://github.com/dgpdec/course/trunk/Fairing original
 svn export \
-  https://github.com/tak0kada/ShapeMove/tree/master/src/Fairing \
+  https://github.com/tak0kada/ShapeMove/trunk/src/Fairing \
   modified
 ```
 
